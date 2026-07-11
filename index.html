@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Kavisha.exe</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Silkscreen&family=IBM+Plex+Mono:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div id="boot">
+        <div class="tag pixel">NEW GAME +</div>
+        <h1 class="pixel brush">KAVISHA SRIVASTAVA</h1>
+        <p class="sub">A second-year CSE (AI &amp; ML) student who debugs by day, wikisurfs by night, and tackles every project with determination. Press start to explore the level map.</p>
+        <button id="startBtn" class="pixel">PRESS START</button>
+        <div class="footer-note pixel">© KAVISHA SRIVASTAVA</div>
+    </div>
+
+    <div id="map">
+        <header class="hud">
+            <button id="backBtn" class="back-btn pixel">← BACK</button>
+            <span class="name pixel">KAVISHA</span>
+            <span class="score" id="scoreDisplay">LEVELS CLEARED: 0 / 7</span>
+        </header>
+
+        <div class="path-wrap" id="pathWrap"></div>
+    </div>
+
+    <div class="overlay" id="overlay">
+        <div class="panel" id="panel"></div>
+    </div>
+
+    <div class="toast" id="toast"></div>
+
+    <script src="script.js"></script>
+</body>
+</html>
