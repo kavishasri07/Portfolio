@@ -8,7 +8,7 @@ const levels = [
       <p>Second-year B.Tech CSE (AI &amp; ML) student, currently grinding through DSA, hackathons, and open-source programs to level up toward a software engineering internship.</p>
       <p>Off-screen: stress-coding LeetCode problems, binge-watching a new show every other week, collecting Pinterest boards for design inspiration, and falling down wikisurfing rabbit holes — emperors, true crime, unsolved murder mysteries, all of it.</p>
     `,
-    tags:["Builder","Debugger","Curious mind","Dark-green aesthetic"]
+    tags:["Builder","Debugger","Python","Frontend Developer"]
   },
   {
     id:2,
