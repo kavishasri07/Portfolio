@@ -71,7 +71,7 @@ const levels = [
     teaser:"Check competitive rankings.",
     eyebrow:"ARENA STATS",
     body:`<p>Grinding DSA daily across two platforms:</p>`,
-    tags:["CodeChef: 380+ solved · Rating 903 · Silver Streak","LeetCode: 43+ solved · DP, Binary Search, Arrays, Two Pointers, Hash Tables"]
+    tags:["CodeChef: 380+ solved · Rating 903 · Silver Streak","LeetCode: 65+ solved · DP, Binary Search, Arrays, Two Pointers, Hash Tables"]
   },
   {
     id:7,
